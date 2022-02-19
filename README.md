@@ -1,16 +1,18 @@
-# cross_radio
+# CrossRadio
 
-A new Flutter project.
+A full modern and clean online radio straming application developed in Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Login with email, Google, and/or Facebook;
+- iOS and Android compatibility;
+- Firebase Integration;
+- Premium Channel support;
+- Favorite Channel support;
+- Request Song support;
+- Media Player support;
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Install Flutter: https://flutter.dev/docs/get-started/install
+- Flutter Development Tutorial: https://flutter.dev/docs/development/tools/vs-code
