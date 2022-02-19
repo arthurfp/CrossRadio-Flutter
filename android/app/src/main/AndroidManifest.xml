@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.cross_radio">
+    package="net.appdevs.cross_radio">
    <application
         android:label="cross_radio"
         android:name="${applicationName}"
